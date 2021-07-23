@@ -1,0 +1,3 @@
+FUNC LABEL 0
+    NOT VAL 3
+    RET

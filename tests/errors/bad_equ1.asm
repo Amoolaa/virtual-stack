@@ -1,0 +1,5 @@
+FUNC LABEL 0
+    MOV STK A VAL 9
+    EQU STK A
+    PRINT STK A
+    RET

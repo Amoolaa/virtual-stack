@@ -1,0 +1,4 @@
+FUNC LABEL 0
+    EQU VAL 9
+    EQU VAL 0
+    RET

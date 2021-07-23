@@ -1,0 +1,6 @@
+FUNC LABEL 0
+    MOV STK A VAL 9
+    MOV REG 0 VAL 1
+    ADD STK A REG 0
+    PRINT STK A
+    RET
